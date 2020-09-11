@@ -203,27 +203,6 @@ class MCQs extends Component {
                   ) : (
                     <h3>You are pass with grades {score}%</h3>
                   )}
-                  <hr />
-                  <p className="badge badge-warning text-center">My IDs</p>
-                  <br />
-                  <a
-                    href="https://github.com/ManalLiaquat/"
-                    className="badge badge-secondary text-center"
-                    target="_blank"
-                  >
-                    <h3>
-                      <i className="fa fa-github" />
-                    </h3>
-                  </a>
-                  <a
-                    href="https://www.linkedin.com/in/manal-liaquat-621684156/"
-                    className="badge badge-info text-center"
-                    target="_blank"
-                  >
-                    <h3>
-                      <i className="fa fa-linkedin" />
-                    </h3>
-                  </a>
               </div>
             </div>
           </div>
