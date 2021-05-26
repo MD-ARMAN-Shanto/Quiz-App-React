@@ -6,7 +6,6 @@ import coverPic2 from "../../images/test.png";
 class QuizList extends Component {
   constructor() {
     super();
-
     this.state = {
       quiz_list: [
         { quizName: "HTML", tests: 2 },
